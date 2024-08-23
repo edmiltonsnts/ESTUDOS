@@ -1,0 +1,17 @@
+p {
+  color: blue;
+  font-size: 18px;
+
+}
+/* ESPECIFICIDADE USANDO ID PESO MAIOR*/
+#A {
+  color: pink;
+  font-size: 30px;
+
+}
+
+h1 {
+  color: red;
+  font-size: 25px;
+
+}
